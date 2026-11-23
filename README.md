@@ -1,7 +1,7 @@
 <a name="top"></a>
 <div align="center">
 
-<img src="./assets/ecg.svg" width="100%" alt="heartbeat"/>
+<img src="ecg.svg" width="100%" alt="heartbeat"/>
 
 # `PRAKHAR.EXE`
 
